@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondalSayantan)](https://github.com/MondalSayantan/github-readme-stats)
+[![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondalSayantanshow_icons=true)
+)](https://github.com/MondalSayantan/github-readme-stats)
