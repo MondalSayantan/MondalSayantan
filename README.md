@@ -22,7 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsayantan&show_icons=true&locale=en&layout=compact" alt="mondalsayantan" /></p>
 
-
--->
+<br>
 
 [![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MondalSayantan&count_private=true&show_icons=true&theme=slateorange)](https://github.com/MondalSayantan/github-readme-stats)
