@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **mobile app development**
 
-- 👨‍💻 All of my projects are available at [https://www.sayantanmondal.com/](https://www.sayantanmondal.com/)
+- 👨‍💻 All of my projects are available at [https://www.sayantanmondal.com/](https://www.sayantanmondal.com/) (Under Development)
 
 - 💬 Ask me about **reactjs and nodejs**
 
