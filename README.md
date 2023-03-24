@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sayantan@sayantanmondal.com**
 
-- ⚡ Fun fact **I have so many interests that sometimes I end up confusing myself**
+- ⚡ Fun fact **I am never tired of participating in hackathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
