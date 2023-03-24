@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayantan</h1>
-<h3 align="center">Hi, I'm Sayantan Mondal, a passionate full stack developer based in New Delhi, India. I have a passion for learning new technologies and building things that help people.</h3>
+<h3 align="center">Hi, I'm Sayantan Mondal, a passionate full stack developer and Open Source contributor based in New Delhi, India. I have a passion for learning new technologies and building things that help people.</h3>
 
 - 🌱 I’m currently learning **mobile app development**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **reactjs and nodejs**
 
-- 📫 How to reach me **https://twitter.com/sayantannnnn**
+- 📫 How to reach me **sayantan@sayantanmondal.com**
 
 - ⚡ Fun fact **I have so many interests that sometimes I end up confusing myself**
 
