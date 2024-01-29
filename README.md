@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Frontend developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Harness](https://www.harness.io/)
+- 💼 Frontend Engineer at [Harness](https://www.harness.io/)
 
 - ❤️ I love writing TypeScript, building and breaking stuff
 
